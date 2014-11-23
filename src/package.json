@@ -5,6 +5,6 @@
   "description": "Node.js Hello World on Ubuntu using Docker",
   "author": "Ryan Ploetz <ryan.ploetz@gmail.com",
   "dependencies": {
-    "express": "2.3.x"
+    "express": "4.x.x"
   }
 }
